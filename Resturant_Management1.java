@@ -12,7 +12,7 @@ double gst=0,tot , gtotal;
 
 String str="",choice,choice1 ="Y";
 
-System.out.println("Welcome to the Multi Cuisine Restaurant!!!");
+System.out.println("Welcome to the Revanth's Multi Cuisine Restaurant!!!");
 
 System.out.println("Starter Corner: 1");
 
